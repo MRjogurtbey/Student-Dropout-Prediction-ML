@@ -65,7 +65,8 @@ Our final model (**Gradient Boosting**) achieved the following performance metri
 ## 7. Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git](https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git)
+   git clone https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git
+
 
 ## 8. Methodology
 Our approach focused on moving from a reactive analysis to a **proactive early warning system**.
