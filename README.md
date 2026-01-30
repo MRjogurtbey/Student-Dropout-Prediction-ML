@@ -97,7 +97,17 @@ Beyond accuracy, our interpretability analysis (SHAP & EDA) revealed a critical 
 * **The Cause:** These students were strictly linked to **unpaid tuition fees** and **debtor status**.
 * **Conclusion:** This proves that financial instability is a barrier as strong as academic failure. A micro-scholarship intervention for this specific group could have prevented these dropouts.
 
-## 9. Installation & Usage
+---
+
+## 9. Conclusion & Policy Recommendations
+Our model does not just predict dropouts; it provides actionable insights for university management:
+
+* **Early Intervention:** Students identified with high **Financial Pressure** should be directed to the financial aid office before the second semester starts.
+* **Performance Tracking:** The **Success Rate** feature shows that the first semester is the "make or break" period. Support programs should focus on the first 6 months.
+* **Targeted Scholarships:** Based on our "Financial Tragedy" finding, we recommend a **emergency micro-scholarship fund** for students who are academically successful but have outstanding tuition debts. 
+
+> By implementing this model, the institution can proactively save approximately **92%** of potential dropouts through early targeted support.
+## 10. Installation & Usage
 
 ### Prerequisites
 * Python 3.8+
@@ -123,7 +133,7 @@ Required libraries are listed in `requirements.txt`. Key dependencies include:
 3.  Open the notebook `Student_Dropout_Prediction.ipynb` to view the training pipeline and analysis.
 
 
-## 10. Team (Group 14)
+## 11. Team (Group 14)
 * **Recep Ödel** - 1306210032
 * **Tuna Hundur** - 1306220107
 
