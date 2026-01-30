@@ -65,9 +65,9 @@ Our final model (**Gradient Boosting**) achieved the following performance metri
 ## 7. Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Student-Dropout-Prediction-ML.git](https://github.com/yourusername/Student-Dropout-Prediction-ML.git)
+   git clone [https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git](https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git)
 
-## 6. Methodology
+## 8. Methodology
 Our approach focused on moving from a reactive analysis to a **proactive early warning system**.
 
 * **Data Preprocessing:**
@@ -78,7 +78,7 @@ Our approach focused on moving from a reactive analysis to a **proactive early w
     * We benchmarked Logistic Regression, Random Forest, and SVM.
     * **Gradient Boosting Classifier** was selected as the champion model due to its superior ability to handle class imbalance and capture non-linear relationships between financial pressure and academic success.
 
-## 7. Model Performance
+## 9. Model Performance
 The model significantly outperformed the baseline accuracy of 60.9%.
 
 | Metric | Score | Significance |
@@ -90,7 +90,7 @@ The model significantly outperformed the baseline accuracy of 60.9%.
 
 > **Comparison:** Our model shows a **+32.49% improvement** over random guessing (Baseline).
 
-## 8. Key Insight: The "Financial Tragedy"
+## 10. Key Insight: The "Financial Tragedy"
 Beyond accuracy, our interpretability analysis (SHAP & EDA) revealed a critical socio-economic issue:
 
 * **The Discovery:** We identified **196 students** who had high academic performance (Grade > 10) but still dropped out.
@@ -99,7 +99,7 @@ Beyond accuracy, our interpretability analysis (SHAP & EDA) revealed a critical 
 
 ---
 
-## 9. Conclusion & Policy Recommendations
+## 11. Conclusion & Policy Recommendations
 Our model does not just predict dropouts; it provides actionable insights for university management:
 
 * **Early Intervention:** Students identified with high **Financial Pressure** should be directed to the financial aid office before the second semester starts.
@@ -107,7 +107,7 @@ Our model does not just predict dropouts; it provides actionable insights for un
 * **Targeted Scholarships:** Based on our "Financial Tragedy" finding, we recommend a **emergency micro-scholarship fund** for students who are academically successful but have outstanding tuition debts. 
 
 > By implementing this model, the institution can proactively save approximately **92%** of potential dropouts through early targeted support.
-## 10. Installation & Usage
+## 12. Installation & Usage
 
 ### Prerequisites
 * Python 3.8+
