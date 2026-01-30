@@ -1,5 +1,5 @@
 # Student-Dropout-Prediction-ML
-Predicting student dropouts using optimized XGBoost with 94.08% accuracy.
+Predicting student dropouts using optimized GradientBoostingClassifier with 93.39% accuracy.
 
 
 
