@@ -124,7 +124,7 @@ Required libraries are listed in `requirements.txt`. Key dependencies include:
 ### Running the Project
 1.  Clone the repository:
     ```bash
-    git clone [[https://github.com/seninkullaniciadin/ProjeIsmi](https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git)](https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git)
+    git clone [https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git](https://github.com/MRjogurtbey/Student-Dropout-Prediction-ML.git)
     ```
 2.  Install dependencies:
     ```bash
